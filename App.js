@@ -8,8 +8,8 @@ import {
 import { _saveStorage, _readStorage, _deleteStorage, } from './src/storage'
 
 const key = "@key"
-const username = "bash"
-const password = "pass123098"
+const username = "name"
+const password = "pass"
 
 export default class App extends React.Component {
 
